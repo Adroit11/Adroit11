@@ -19,10 +19,8 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 
 ## My Stats 🏢
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adroit11&show_icons=true&count_private=true&theme=dark&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adroit11&layout=compact&show_icons=true&count_private=true&theme=dark)
 
 [![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=adroit11&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adroit11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
