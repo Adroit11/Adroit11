@@ -14,8 +14,10 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ---
 
 ## Find me around the web 🌍
-![Twitter](https://img.shields.io/twitter/follow/adroitcode?label=follow&style=social)
-![Github](https://img.shields.io/github/followers/adroit11?label=follow&style=social)
+- [Twitter](https://twitter.com/adroitcode)
+- [LinkedIn](https://www.linkedin.com/in/ogundiji-bolade-b3b00387/)
+- [Codepen](https://codepen.io/Adroit11)
+- [Medium](https://medium.com/@ogundijiboladeadio)
 
 ## My Stats 🏢
 
