@@ -1,6 +1,6 @@
 ### Hi👋 I'm Ogundiji Bolade
 
-Mostly refered to as **Adroit**, a passionately curious software engineer, and an open source enthusiast✨.
+- Mostly refered to as **Adroit**, a passionately curious software engineer, and an open source enthusiast✨.
 ---
 
 ## Here are some ideas to get you started:
@@ -20,14 +20,10 @@ Mostly refered to as **Adroit**, a passionately curious software engineer, and a
 
 ## My Stats 🏢
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adroit11&show_icons=true&count_private=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=adroit11&show_icons=true&count_private=true&theme=dark&layout=compact)
 
 [![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=adroit11&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adroit11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## My Github Activity ⚡
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Adroit11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
