@@ -1,17 +1,17 @@
 # Hi👋 I'm Ogundiji Bolade
-## Mostly refered to as Adroit, a passionately curious software engineer, and an open source enthusiast✨.
----
 
-## Here are some ideas to get you started:
+Mostly refered to as Adroit, a passionately curious software engineer, and an open source enthusiast✨.
 
 - 🌱 I’m a very passionate about learning, and love to share resources and expertise with the dev community
 - 🔭 I’m currently working on iSupbot
 - 👯 I’m looking to collaborate on interesting project ideas
 - 🤔 I’m looking for help with solidity
 - 💬 Ask me about Backend Technologies
-- 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [Twitter @adroitcode](https://twitter.com/adroitcode)
+- 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [I tweet @adroitcode](https://twitter.com/adroitcode)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Am aspiring to be the next world heavy weight boxing champion when not coding😄
+
+---
 
 ## Find me around the web 🌍
 ![Twitter](https://img.shields.io/twitter/follow/adroitcode?label=follow&style=social)
