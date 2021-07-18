@@ -27,5 +27,7 @@ Mostly refered to as **Adroit**, a passionately curious software engineer, and a
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adroit11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Github Activity ⚡
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
