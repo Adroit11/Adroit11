@@ -1,5 +1,5 @@
-### Hi👋 I'm Ogundiji Bolade
-# Mostly refered to as Adroit, a passionately curious software engineer, and an open source enthusiast✨.
+# Hi👋 I'm Ogundiji Bolade
+## Mostly refered to as Adroit, a passionately curious software engineer, and an open source enthusiast✨.
 ---
 
 ## Here are some ideas to get you started:
