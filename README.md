@@ -28,4 +28,5 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#1](https://github.com/Adroit11/Adroit11/pull/1) in [Adroit11/Adroit11](https://github.com/Adroit11/Adroit11)
 <!--END_SECTION:activity-->
