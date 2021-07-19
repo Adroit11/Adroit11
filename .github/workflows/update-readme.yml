@@ -1,4 +1,4 @@
-name: Activity Log
+name: Profile Activity Log
 
 on:
   schedule:
