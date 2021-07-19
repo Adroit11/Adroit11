@@ -25,4 +25,7 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 
 [![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=adroit11&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Github Activity ⚡
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
