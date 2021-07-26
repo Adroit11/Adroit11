@@ -28,5 +28,5 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Adroit11/whmcs/pull/2) in [Adroit11/whmcs](https://github.com/Adroit11/whmcs)
+1. ❗️ Opened issue [#4](https://github.com/Adroit11/whmcs/issues/4) in [Adroit11/whmcs](https://github.com/Adroit11/whmcs)
 <!--END_SECTION:activity-->
