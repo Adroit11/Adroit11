@@ -28,5 +28,5 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ## My Github Activity ⚡
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/Adroit11/whmcs/pull/6) in [Adroit11/whmcs](https://github.com/Adroit11/whmcs)
+1. ❗️ Opened issue [#12](https://github.com/mhmiton/laravel-modules-livewire/issues/12) in [mhmiton/laravel-modules-livewire](https://github.com/mhmiton/laravel-modules-livewire)
 <!--END_SECTION:activity-->
