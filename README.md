@@ -14,10 +14,27 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ---
 
 ## Find me around the web 🌍
+
 - [Twitter](https://twitter.com/adroitcode)
 - [LinkedIn](https://www.linkedin.com/in/ogundiji-bolade-b3b00387/)
 - [Codepen](https://codepen.io/Adroit11)
 - [Medium](https://medium.com/@ogundijiboladeadio)
+
+## My skills 🚀
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/PHP-0075f6?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/GO-0075f6?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/LARAVEL-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
+![](https://img.shields.io/badge/CODEIGNITER-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/ADONIS%20JS-21014F?style=for-the-badge&logo=adonisjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ## My Stats 🏢
 
