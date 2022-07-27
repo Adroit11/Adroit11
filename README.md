@@ -27,6 +27,7 @@ Mostly refered to as Adroit, a passionately curious software engineer, and an op
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/PHP-0075f6?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/GO-0075f6?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/RUBY-E80E12?style=for-the-badge&logo=ruby&logoColor=white)
 ![](https://img.shields.io/badge/LARAVEL-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/CODEIGNITER-E34F26?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
