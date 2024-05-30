@@ -6,6 +6,7 @@
 - ✨ My most recent accomplished project is [the GO54 Client's area](https://app.go54.com)
 - 🔭 My newest side project is [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
 - 👯 I’m looking to collaborate on interesting project ideas
+- 💼 Job interests: Fullstack Software Engineer, Backend Engineer.
 - 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [I tweet @adroitcode](https://twitter.com/adroitcode)
 
 ---
