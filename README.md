@@ -1,6 +1,6 @@
 # Hi👋 I'm Ogundiji Bolade
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=22&pause=1000&color=F7BF11&random=false&width=435&lines=I+am+a+competitive+programmer%F0%9F%8F%86;An+open+source+enthusiast+%F0%9F%A7%90;+Passionately+curious+aout+learning+%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=22&pause=1000&color=F7BF11&random=false&width=435&lines=I+am+a+competitive+programmer%F0%9F%8F%86;An+open+source+enthusiast+%F0%9F%A7%90;+Passionately+curious+about+learning+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 - 💻 I'm currently working for [GO54](http://go54.com) formerly [Whogohost Limited](https://www.whogohost.com/)
 - 🔭 I’m currently working on [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
