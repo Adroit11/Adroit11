@@ -7,7 +7,7 @@
 - 🔭 My newest side project is [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
 - 👯 I’m looking to collaborate on interesting project ideas
 - 💼 Job interests: Fullstack Software Engineer, Backend Engineer.
-- 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [I tweet @adroitcode](https://twitter.com/adroitcode)
+- 📫 You can [view my resume](https://docs.google.com/document/d/e/2PACX-1vR95guUhrx_DR5qicRQ16CoKNCSmhEyTYbVr31nAt9_kYgokVyyGkcYTuCe93YLTRBsnejkA0Q10NIF/pub) and reachout via email [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com)
 
 ---
 
