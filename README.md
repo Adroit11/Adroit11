@@ -1,15 +1,12 @@
 # Hi👋 I'm Ogundiji Bolade
 
-Mostly refered to as Adroit, a passionately curious software engineer, and an open source enthusiast✨.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=22&pause=1000&color=F7BF11&random=false&width=435&lines=I+am+a+competitive+programmer%F0%9F%8F%86;An+open+source+enthusiast+%F0%9F%A7%90;+Passionately+curious+aout+learning+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-- 🌱 I’m a very passionate about learning, and love to share resources and expertise with the dev community
-- 🔭 I’m currently working on iSupbot
+- 💻 I'm currently working for [GO54](http://go54.com) formerly [Whogohost Limited](https://www.whogohost.com/)
+- 🔭 I’m currently working on [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
 - 👯 I’m looking to collaborate on interesting project ideas
-- 🤔 I’m looking for help with solidity
-- 💬 Ask me about Backend Technologies
+- 🤔 I’m looking for help with web3
 - 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [I tweet @adroitcode](https://twitter.com/adroitcode)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Am aspiring to be the next world heavy weight boxing champion when not coding😄
 
 ---
 
