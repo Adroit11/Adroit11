@@ -5,7 +5,6 @@
 - 💻 I'm currently working for [GO54](http://go54.com) formerly [Whogohost Limited](https://www.whogohost.com/)
 - 🔭 I’m currently working on [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
 - 👯 I’m looking to collaborate on interesting project ideas
-- 🤔 I’m looking for help with web3
 - 📫 How to reach me: [adroitadio1@gmail.com](mailto:adroitadio1@gmail.com) & [I tweet @adroitcode](https://twitter.com/adroitcode)
 
 ---
