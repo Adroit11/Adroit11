@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Merienda&size=22&pause=1000&color=F7BF11&random=false&width=435&lines=I+am+a+competitive+programmer%F0%9F%8F%86;An+open+source+enthusiast+%F0%9F%A7%90;+Passionately+curious+about+learning+%F0%9F%92%BB)](https://git.io/typing-svg)
 
-- 💻 I'm currently working for [HOSTAFRICA]([http://go54.com](https://www.hostafrica.com/))
+- 💻 I'm currently working for [HOSTAFRICA](https://www.hostafrica.com/)
 - ✨ My most recent accomplished project is [the GO54 Client's area](https://app.go54.com)
 - 🔭 My newest side project is [opus](https://github.com/Opus-Tech) which is currently still in stealth mode🤫
 - 👯 I’m looking to collaborate on interesting project ideas
